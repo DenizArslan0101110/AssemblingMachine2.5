@@ -1,0 +1,13 @@
+{
+  "name": "AssemblingMachine25",
+  "version": "1.0.0",
+  "factorio_version": "2.0",
+  "title": "Assembling Machine 2.5",
+  "author": "DrinkShellOil",
+  "contact": "",
+  "homepage": "",
+  "dependencies": [
+    "base >= 2.0"
+  ],
+  "description": "Assembling machine 2 has 0.75 speed and 2 module slots while assembling machine 3 has 1.25 speed and 4 module slots, it feels like something is missing right inbetween, so I made a mod to fix that."
+}
