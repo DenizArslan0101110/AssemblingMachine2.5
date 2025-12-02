@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------------------------------
+Version 1.1.1
+Date: 2.12.2025
+  Minor Features:
+    - Added a setting to optionally make assembling machine 3's recipe require assembling machine 2.5
+---------------------------------------------------------------------------------------------------
+Version 1.0.1
+Date: 30.11.2025
+  Translation:
+    - Added Turkish localization
+    - English localization file edited and renamed
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 29.11.2025
+  Features:
+    - Added Assembling Machine 2.5
